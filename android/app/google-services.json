@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89360218217",
+    "project_id": "ostore-ab756",
+    "storage_bucket": "ostore-ab756.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89360218217:android:acfffddfd73af9c5574af8",
+        "android_client_info": {
+          "package_name": "com.example.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1QETG53HyJbsXjLIhQanrcBnQpXurgC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
